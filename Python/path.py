@@ -1,5 +1,5 @@
 class Solution(object):
-    def judgeCircle(self, moves):
+    def judgeCircle(moves):
         """
         :type moves: str
         :rtype: bool
