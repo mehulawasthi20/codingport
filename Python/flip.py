@@ -1,5 +1,5 @@
 class Solution(object):
-    def flipAndInvertImage(self, A):
+    def flipAndInvertImage(A):
         """
         :type A: List[List[int]]
         :rtype: List[List[int]]
