@@ -1,5 +1,5 @@
 class Solution:
-    def numJewelsInStones(self, J, S):
+    def numJewelsInStones(J, S):
         """
         :type J: str
         :type S: str
