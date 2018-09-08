@@ -1,5 +1,5 @@
 class Solution:
-    def toLowerCase(self, str):
+    def toLowerCase(str):
         """
         :type str: str
         :rtype: str
