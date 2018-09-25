@@ -1,4 +1,4 @@
-class Solution:
+
     def toLowerCase(str):
         """
         :type str: str
