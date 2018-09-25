@@ -1,4 +1,4 @@
-class Solution(object):
+
     def fizzBuzz(n):
         """
         :type n: int
