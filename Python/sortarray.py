@@ -1,4 +1,4 @@
-class Solution:
+
     def sortArrayByParity(A):
         """
         :type A: List[int]
