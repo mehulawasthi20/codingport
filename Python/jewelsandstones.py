@@ -1,4 +1,4 @@
-class Solution:
+
     def numJewelsInStones(J, S):
         """
         :type J: str
