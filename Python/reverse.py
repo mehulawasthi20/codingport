@@ -1,4 +1,4 @@
-class Solution(object):
+
     def reverseWords(s):
         """
         :type s: str
