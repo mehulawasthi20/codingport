@@ -1,4 +1,4 @@
-class Solution(object):
+
     def judgeCircle(moves):
         """
         :type moves: str
